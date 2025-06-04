@@ -1,7 +1,6 @@
 neuron
 netpyne
 numpy==1.26.4
-numpy
 pandas
 pickle
 gc
